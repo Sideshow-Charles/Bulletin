@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+.hero-section__container {
+  box-sizing: border-box;
+  margin: 96px 48px;
+}
+
+.main-article__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-article__container img {
+  max-width: 38%;
+}
+
+.main-article__content__container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 96px;
+  margin-top: -18px;
+}
+
+.main-article__header {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.7em;
+  line-height: 1.5;
+}
+
+.main-article__content {
+  font-family: "Roboto", sans-serif;
+  color: rgb(168, 168, 168);
+  line-height: 1.7;
+  font-size: 1.1em;
+  margin-top: -20px;
+}
+
+.article-author__container img {
+width: 7%;
+}
+
+.author__name {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8em;
+}
+
+.author__role {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8em;
+  color: rgb(168, 168, 168);
+  margin-top: -5px;
+}

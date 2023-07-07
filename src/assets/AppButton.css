@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.CTA__Button {
+    background-color: #ff9b00;
+    color: #fff;
+    border: none;
+    padding: 12px 32px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+
+.CTA__Button:hover {
+    background-color: #cc7c00;
+}
