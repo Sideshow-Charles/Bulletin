@@ -1,9 +1,8 @@
 import React from "react";
-import  "../assets/HeroSection.css";
+import "../assets/HeroSection.css";
 import MainArticleImage from "../assets/images/Main Article Image.png";
 import UserAvatar from "../assets/images/User Avatar.png";
-
-
+import { render } from "@testing-library/react";
 
 const ShowPosts = () => {
   return (

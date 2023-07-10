@@ -12,4 +12,5 @@
 
 .CTA__Button:hover {
     background-color: #cc7c00;
+    box-shadow: #cc7c00;
 }

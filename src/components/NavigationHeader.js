@@ -1,5 +1,5 @@
 import React from "react";
-import NavHeader from "../assets/NavHeader.css";
+import  "../assets/NavHeader.css";
 import BulletinLogo from "../assets/images/BulletinLogo.png";
 import AppButton  from "./AppButton";
 
